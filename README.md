@@ -25,9 +25,9 @@ I am a Cybersecurity student at Oakland University with a focus on **Application
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[SQL Injection Demo](https://github.com/YourUsername/sql-injection-demo)** | A vulnerable Flask app demonstrating SQLi attacks and secure parameterized query defense. | `Python` `Flask` `SQL` |
-| **[Secure File Transfer](https://github.com/YourUsername/Secure-File-Transfer-Python)** | Client-Server app using SSL/TLS sockets for encrypted data transmission. | `Python` `OpenSSL` `Sockets` |
-| **[RSA Signature Scheme](https://github.com/YourUsername/rsa-digital-signature-demo)** | Implementation of RSA-2048 & SHA-256 to sign/verify file integrity. | `Python` `Cryptography` |
-| **[Secure Auth (Bcrypt)](https://github.com/YourUsername/Secure-Password-Storage-Bcrypt)** | CLI tool demonstrating safe credential storage using salted hashing. | `Python` `Bcrypt` |
+| **[SQL Injection Demo](https://github.com/St3viejr/SQLi-Attack-Demo-Flask-Python-)** | A vulnerable Flask app demonstrating SQLi attacks and secure parameterized query defense. | `Python` `Flask` `SQL` |
+| **[Secure File Transfer](https://github.com/St3viejr/Secure-File-Transfer-protocol-in-Python-using-SSL-TLS-security-)** | Client-Server app using SSL/TLS sockets for encrypted data transmission. | `Python` `OpenSSL` `Sockets` |
+| **[RSA Signature Scheme](https://github.com/St3viejr/Digital-Signature-Scheme-RSA-SHA-256-)** | Implementation of RSA-2048 & SHA-256 to sign/verify file integrity. | `Python` `Cryptography` |
+| **[Secure Auth (Bcrypt)](https://github.com/St3viejr/Mock-Digital-Authentication-App-in-Python-using-bcrypt-hashing-technique-)** | CLI tool demonstrating safe credential storage using salted hashing. | `Python` `Bcrypt` |
 
 ---
