@@ -1,7 +1,7 @@
 # Hi there, I'm Estevan! 👋
 ### Cybersecurity Student | NCL Competitor | Python Security Researcher
 
-I am a Cybersecurity student at Oakland University with a focus on **Application Security**, **Cryptography**, and **Network Defense**. My passion lies in building secure systems and breaking vulnerable ones to understand defense mechanisms.
+I am a Cybersecurity student at Oakland University with a focus on **RAG**, **Cryptography**, and **Network Defense**. My passion lies in building secure systems and breaking vulnerable ones to understand defense mechanisms.
 
 - 🔭 I’m currently working on: **Mock Authentication Systems using Bcrypt**
 - 🏆 **Competitions:** National Cyber League (NCL) - Team Game
