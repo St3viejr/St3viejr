@@ -5,7 +5,7 @@ I am a Cybersecurity student at Oakland University with a focus on **Application
 
 - 🔭 I’m currently working on: **Mock Authentication Systems using Bcrypt**
 - 🏆 **Competitions:** National Cyber League (NCL) - Team Game
-- 🔬 **Research:** NSF REU Scholar (AI & LLM Security Benchmarking)
+- 🔬 **Research:** NSF REU UnCoRe - Research in Cybersecurity and AI
 - 📫 Reach me at: **erendon@oakland.edu**
 
 ---
