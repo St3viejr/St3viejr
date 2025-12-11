@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Estevan!;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&width=435&lines=System.init()...;Accessing+Profile...;User+Verified.)!" alt="Typing SVG" />
 </a>
+
 ### Cybersecurity Student | NCL Competitor | Python Security Researcher
 
 I am a Cybersecurity student at Oakland University with a focus on **Retrieval-Augmented Generation**, **Cryptography**, and **Network Defense**. My passion lies in building secure systems and breaking vulnerable ones to understand defense mechanisms.
