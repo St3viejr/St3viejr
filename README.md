@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=600&multiline=true&width=800&height=150&lines=root@kali:~%23+./identify_user.sh;%3E+[SUCCESS]+NCL+Competitor+%26+Python+Security+Researcher;root@kali:~%23+cat+/etc/academic_focus;%3E+RAG,+Cryptography,+Network+Defense;root@kali:~%23+run_mission+--mode=offensive" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&multiline=true&width=800&height=120&color=00FF00&background=000000&lines=root@kali:~%23+./identify_user.sh;%3E+[SUCCESS]+NCL+Competitor+%26+Python+Security+Researcher;root@kali:~%23+cat+/etc/academic_focus;%3E+RAG,+Cryptography,+Network+Defense;root@kali:~%23+run_mission+--mode=offensive" alt="Typing SVG" />
 </a>
 
 # Hi there, I'm Estevan! 👋
