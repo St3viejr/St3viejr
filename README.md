@@ -1,6 +1,8 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&width=435&lines=System.init()...;Accessing+Profile...;User+Verified.)!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FF00&background=000000&vCenter=true&width=435&lines=root@github:~%23+whoami;%3E+Full+Stack+Developer;root@github:~%23+cat+skills.txt;%3E+JS,+Python,+Rust;root@github:~%23+sudo+hire+me" alt="Typing SVG" />
 </a>
+
+# Hi there, I'm Estevan! 👋
 
 ### Cybersecurity Student | NCL Competitor | Python Security Researcher
 
