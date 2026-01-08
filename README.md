@@ -8,6 +8,8 @@
 
 ### Cybersecurity Student | NCL Competitor | NSF Researcher
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-rendon-jr/)
+
 I am a Cybersecurity student at **Oakland University** specializing in **Retrieval-Augmented Generation (RAG)**, **Cryptography**, and **Network Defense**. My passion lies in building secure systems and utilizing Deep Learning architectures to solve complex challenges.
 
 ---
