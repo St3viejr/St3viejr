@@ -20,10 +20,15 @@ I am a Cybersecurity student at **Oakland University** specializing in **Retriev
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
+<br><br>
+
 **AI & Machine Learning**
 <br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+
+<br><br>
+
 **Security Tools & OS**
 <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -35,7 +40,7 @@ I am a Cybersecurity student at **Oakland University** specializing in **Retriev
 ---
 
 ### 🔭 Current Focus
-- **Researching:** DNN Architectures for Kaggle Competitions (NSF REU)
+- **Researching:** CompeteRAG (NSF REU)
 - **Working on:** Mock Authentication Systems using Bcrypt
 - **Competing in:** National Cyber League (NCL) - Team Game
 
@@ -45,7 +50,7 @@ I am a Cybersecurity student at **Oakland University** specializing in **Retriev
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Autonomous Kaggle Competitor](YOUR_LINK_HERE)** | 🧠 **Research:** A DNN architecture designed to compete against human participants in Kaggle challenges. Utilized Keras Tuner for hyperparameter optimization. | `TensorFlow` `Keras` `Python` |
+| **[CompeteRAG (Paper)](LINK_TO_YOUR_PAPER)** | 🧠 **Research:** A DNN architecture designed to compete against human participants in Kaggle challenges. Utilized Keras Tuner for hyperparameter optimization. | `TensorFlow` `Keras` `Python` |
 | **[SQL Injection Demo](https://github.com/St3viejr/SQLi-Attack-Demo-Flask-Python-)** | 🟥 **Offensive Security:** Vulnerable Flask app demonstrating SQLi attacks & parameterized defenses. | `Python` `Flask` `SQL` |
 | **[Secure File Transfer](https://github.com/St3viejr/Secure-File-Transfer-protocol-in-Python-using-SSL-TLS-security-)** | 🟦 **Network Defense:** Client-Server app using SSL/TLS sockets for encrypted data transmission. | `Python` `OpenSSL` `Sockets` |
 | **[RSA Signature Scheme](https://github.com/St3viejr/Digital-Signature-Scheme-RSA-SHA-256-)** | 🔐 **Cryptography:** Implementation of RSA-2048 & SHA-256 to sign/verify file integrity. | `Python` `Crypto` |
