@@ -6,7 +6,7 @@
 
 # Hi there, I'm Estevan! 👋
 
-### Cybersecurity Student | NCL Competitor | AI Security Researcher
+### Cybersecurity Student | NCL Competitor | NSF Researcher
 
 I am a Cybersecurity student at **Oakland University** specializing in **Retrieval-Augmented Generation (RAG)**, **Cryptography**, and **Network Defense**. My passion lies in building secure systems and utilizing Deep Learning architectures to solve complex challenges.
 
