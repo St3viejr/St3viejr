@@ -6,7 +6,7 @@
 
 # Hi there, I'm Estevan! 👋
 
-### Cybersecurity Student | NCL Competitor | NSF Researcher
+### Cybersecurity Student | NCL Competitor | AI Security Researcher
 
 I am a Cybersecurity student at **Oakland University** specializing in **Retrieval-Augmented Generation (RAG)**, **Cryptography**, and **Network Defense**. My passion lies in building secure systems and utilizing Deep Learning architectures to solve complex challenges.
 
@@ -50,7 +50,7 @@ I am a Cybersecurity student at **Oakland University** specializing in **Retriev
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[CompeteRAG (Paper)](LINK_TO_YOUR_PAPER)** | 🧠 **Research:** A DNN architecture designed to compete against human participants in Kaggle challenges. Utilized Keras Tuner for hyperparameter optimization. | `TensorFlow` `Keras` `Python` |
+| **[CompeteRAG (PDF)](./REU_2025%20Newest%20Version.pdf)** | 🧠 **Research:** A DNN architecture designed to compete against human participants in Kaggle challenges. Utilized Keras Tuner for hyperparameter optimization. | `TensorFlow` `Keras` `Python` |
 | **[SQL Injection Demo](https://github.com/St3viejr/SQLi-Attack-Demo-Flask-Python-)** | 🟥 **Offensive Security:** Vulnerable Flask app demonstrating SQLi attacks & parameterized defenses. | `Python` `Flask` `SQL` |
 | **[Secure File Transfer](https://github.com/St3viejr/Secure-File-Transfer-protocol-in-Python-using-SSL-TLS-security-)** | 🟦 **Network Defense:** Client-Server app using SSL/TLS sockets for encrypted data transmission. | `Python` `OpenSSL` `Sockets` |
 | **[RSA Signature Scheme](https://github.com/St3viejr/Digital-Signature-Scheme-RSA-SHA-256-)** | 🔐 **Cryptography:** Implementation of RSA-2048 & SHA-256 to sign/verify file integrity. | `Python` `Crypto` |
