@@ -54,7 +54,7 @@ I am a Cybersecurity student at **Oakland University** specializing in **Retriev
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[CompeteRAG](https://ieeexplore.ieee.org/document/11415738/authors#full-text-header)** | **Published Research (IEEE ICDMW 2025, Washington D.C.):** A DNN architecture designed to compete against human participants in Kaggle challenges. Utilized Keras Tuner for hyperparameter optimization. | `TensorFlow` `Keras` `Python` `Deep Learning` |
-| **Project Argus** | **Computer Vision & Security:** An automated threat detection system leveraging YOLO models to identify and classify potential security threats in real-time. | `Python` `YOLO` `Object Detection` |
+| **[Project Argus](https://github.com/St3viejr/Project-Argus)** | **Computer Vision & Security:** An automated threat detection system leveraging YOLO models to identify and classify potential security threats in real-time. | `Python` `YOLO` `Object Detection` |
 | **[SQL Injection Demo](https://github.com/St3viejr/SQLi-Attack-Demo-Flask-Python-)** | **Offensive Security:** Vulnerable Flask app demonstrating SQLi attacks & parameterized defenses. | `Python` `Flask` `SQL` |
 | **[Secure File Transfer](https://github.com/St3viejr/Secure-File-Transfer-protocol-in-Python-using-SSL-TLS-security-)** | **Network Defense:** Client-Server app using SSL/TLS sockets for encrypted data transmission. | `Python` `OpenSSL` `Sockets` |
 | **[RSA Signature Scheme](https://github.com/St3viejr/Digital-Signature-Scheme-RSA-SHA-256-)** | **Cryptography:** Implementation of RSA-2048 & SHA-256 to sign/verify file integrity. | `Python` `Crypto` |
